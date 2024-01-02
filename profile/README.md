@@ -6,13 +6,15 @@ Welcome to the flip-rs GitHub Organization! We are dedicated to developing and m
 
 ### Flip UI Builder
 
-- **Repository**: Flip UI Builder
+- **Repository**: [Flip UI Builder](https://github.com/flip-rs/flip-rs.github.io)
 - **Description**: An intuitive UI builder for creating user interfaces tailored for Flipper Zero applications. Design your UI effortlessly and export it as a JSON file.
 
 ### Rust Integration Crate
 
-- **Repository**: Flipper Zero Rust Crate
+- **Repository**: [Flipper Zero Rust Crate]()
 - **Description**: A Rust crate designed to integrate the exported JSON UI from the Flip UI Builder into your Flipper Zero applications. Simplifies the process of rendering UI components and managing user interactions.
+
+> Work in Progress
 
 ## Getting Started
 
@@ -24,11 +26,13 @@ To start using our tools:
 
 ## Contribution
 
-We welcome contributions from the community. If you're interested in contributing, please read our Contribution Guidelines.
+We welcome contributions from the community. If you're interested in contributing, please read our [Contribution Guidelines]().
+
+> Work in Progress
 
 ## Support and Issues
 
-If you encounter any issues or need support, feel free to open an issue in the respective repository or check out our FAQs.
+If you encounter any issues or need support, feel free to open an issue in the respective repository.
 
 ## Stay Connected
 
